@@ -1,6 +1,6 @@
 # Aprendendo_Git_e_GitHub
 ---
-##Repositorio de **Git e GitHub** e o que foi aprendido.
+## Repositorio de **Git e GitHub** e o que foi aprendido.
 
 ### Uso de **_Markdown_**.
 ---
